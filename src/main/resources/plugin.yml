@@ -1,0 +1,4 @@
+name: Plugin
+version: '${project.version}'
+main: gg.therealm.plugin.Plugin
+api-version: 1.18
